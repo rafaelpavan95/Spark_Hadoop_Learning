@@ -8,9 +8,16 @@ A. DataFrame Essentials:
 - SQL Options
 
 
-A. Manipulating Dataframes
+B. Manipulating Dataframes
 
 - Aggregating
 - Joining
 - Dealing with Dates and Expressions 
 - Statistics
+
+C. Machine Learning
+
+- Classification
+- NLP
+- Regression
+- Clustering
