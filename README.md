@@ -15,9 +15,10 @@ B. Manipulating Dataframes
 - Dealing with Dates and Expressions 
 - Statistics
 
-C. Machine Learning
+C. Machine Learning Classification
 
 - Classification
 - NLP
 - Regression
 - Clustering
+- Frequent Pattern Mining
