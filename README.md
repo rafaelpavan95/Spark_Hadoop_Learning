@@ -1,5 +1,8 @@
 # PySpark_Learning
-My Activities using PySpark
+My Activities using Spark and Hadoop
+
+
+# Spark (PySpark):
 
 A. DataFrame Essentials:
 
@@ -22,3 +25,7 @@ C. Machine Learning Classification
 - Regression
 - Clustering
 - Frequent Pattern Mining
+
+# Hadoop
+
+A. MapReduce
