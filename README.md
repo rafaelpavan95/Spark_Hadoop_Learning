@@ -28,4 +28,4 @@ C. Machine Learning Classification
 
 # Hadoop
 
-A. MapReduce
+A. MapReduce 
