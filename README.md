@@ -25,7 +25,3 @@ C. Machine Learning Classification
 - Regression
 - Clustering
 - Frequent Pattern Mining
-
-# Hadoop
-
-A. MapReduce 
